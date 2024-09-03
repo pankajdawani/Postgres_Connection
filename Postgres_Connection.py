@@ -52,4 +52,6 @@ class PostgresDB:
             print("PostgreSQL connection closed")
 
 
-# we can test this code with insert and fetching the data in python 
+# we can test this code with insert and fetching the data in python
+# 
+# # Changes made again 
